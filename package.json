@@ -1,0 +1,13 @@
+{
+  "name": "xydrag",
+  "version": "1.0.0",
+  "description": "一个使用原生JS实现的拖曳方法，目前仅支持Vue3指令用法。",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xianyue",
+  "license": "ISC"
+}
